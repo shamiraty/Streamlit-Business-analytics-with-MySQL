@@ -1,4 +1,4 @@
-# Streamlit-Business-analytics-with-MySQL
+# Streamlit-Business-analytics-with-MySQL Database
 ![1](https://github.com/shamiraty/Streamlit-Business-analytics-with-MySQL/assets/129072179/910381c8-eda4-4dbc-ae34-745101ae3f5f)
 ![5](https://github.com/shamiraty/Streamlit-Business-analytics-with-MySQL/assets/129072179/11911959-f730-451a-9a66-7be24880b41b)
 ![4](https://github.com/shamiraty/Streamlit-Business-analytics-with-MySQL/assets/129072179/31751758-8ffa-46ad-bbc7-7ddd0806ab91)
