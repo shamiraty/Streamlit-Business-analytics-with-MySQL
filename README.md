@@ -1,4 +1,20 @@
 # Streamlit-Business-analytics-with-MySQL Database
+
+you will learn how to create an analytics website dashboard using Python and the Streamlit library. We will use a MySQL database to store the data, and we will use Streamlit to create an interactive dashboard that allows us to visualize and explore the data.
+
+contents:
+
+1. how to download and install python
+2. how to install streamlit
+3. how to start a new project
+4. how to upload Excel file to Mysql
+5. how to connect stremlit and Mysql
+6. how to print data to Dataframe()
+7. how to compute central tendencies 
+8. how to plot graphs in streamlit
+9. how to create sidebar in streamlit
+10. how to create multi-selector to sidebar:
+11. 
 ![1](https://github.com/shamiraty/Streamlit-Business-analytics-with-MySQL/assets/129072179/910381c8-eda4-4dbc-ae34-745101ae3f5f)
 ![5](https://github.com/shamiraty/Streamlit-Business-analytics-with-MySQL/assets/129072179/11911959-f730-451a-9a66-7be24880b41b)
 ![4](https://github.com/shamiraty/Streamlit-Business-analytics-with-MySQL/assets/129072179/31751758-8ffa-46ad-bbc7-7ddd0806ab91)
